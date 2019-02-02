@@ -1,1 +1,2 @@
-# Dog-Breed-Identifier
+# DirtyDawgs
+Project 3 Dog Prediction
